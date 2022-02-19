@@ -4,3 +4,4 @@ Proyecto practico para la clase de GitHub
 En Platzi💚
 **Ir al Curso**
 https://platzi.com/cursos/git-github/
+Creado por el increible Platzi Team.
